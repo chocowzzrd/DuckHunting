@@ -3,6 +3,8 @@ First EZ game based on the old school duck hunting game.
 
 Used: Eclipes, EZ graphics, java
 
+*This Project was made using EZ graphics, see EZ.java for details*
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Version 1.0 - 1/24/2017 to 1/25/2017
@@ -27,8 +29,12 @@ Version 1.0 - 1/24/2017 to 1/25/2017
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-Version 2.0
+Version 2.0 - n/a
+
+@update
+
+-(Comments will be added in Version 2)
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-Version 3.0
+Version 3.0 - n/a
